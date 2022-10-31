@@ -1,4 +1,7 @@
 # Tasks
-face detection using viola-jones algorithm
-Data preprocessing
-numpy on images
+
+
+front End ReactJs code samples
+
+https://codesandbox.io/s/frontend-mern-forked-4klskh
+
