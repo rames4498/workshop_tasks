@@ -3,9 +3,11 @@
 
 https://colab.research.google.com/drive/11iW_ZVWrW2OEQtez9EMVSCKPzgZlcEKo?usp=sharing
 
+https://colab.research.google.com/drive/1uid8nn0t1VNi9WfdpjxfHer3L_YB8NSW?usp=sharing
 
+https://colab.research.google.com/drive/1PgQ4SlEUreSeUcl4tVnyxcDfZ3STCIRg?usp=sharing
 
-
+https://colab.research.google.com/drive/19dp9lu4CMeUs6lzl7OvVEbzbwFvGegiC?usp=sharing
 
 
 
