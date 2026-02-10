@@ -22,6 +22,11 @@ https://raw.githubusercontent.com/rames4498/Bootcamps_and_workshops/refs/heads/m
 Regression
 https://colab.research.google.com/drive/17cImtHmHF9Wa-FNfDMwscXrxuANbC3k5?usp=sharing
 
+Regression_end_to_end
+https://colab.research.google.com/drive/1bl1Y29N-tUH29c8bx01I096j128Ll0rz?usp=sharing
+
+
+
 Tasks -  Based on Pandas 
 https://colab.research.google.com/drive/1iELMsjt_gJS_Akv1nUfDyMjizV2JUK5w?usp=sharing
 https://colab.research.google.com/drive/1BovtXQOwhgPfmLgliA_Bg9DBn2Dyi8G6?usp=sharing
