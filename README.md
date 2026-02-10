@@ -13,6 +13,9 @@ https://colab.research.google.com/drive/1PgQ4SlEUreSeUcl4tVnyxcDfZ3STCIRg?usp=sh
 matplotlib
 https://colab.research.google.com/drive/19dp9lu4CMeUs6lzl7OvVEbzbwFvGegiC?usp=sharing
 
+Knn
+https://colab.research.google.com/drive/1VQpXSGbAwzERy0bfY1Juuoox4XTUAsaP
+
 Tasks -  Based on Pandas 
 https://colab.research.google.com/drive/1iELMsjt_gJS_Akv1nUfDyMjizV2JUK5w?usp=sharing
 https://colab.research.google.com/drive/1BovtXQOwhgPfmLgliA_Bg9DBn2Dyi8G6?usp=sharing
