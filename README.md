@@ -13,7 +13,7 @@ https://colab.research.google.com/drive/1PgQ4SlEUreSeUcl4tVnyxcDfZ3STCIRg?usp=sh
 matplotlib
 https://colab.research.google.com/drive/19dp9lu4CMeUs6lzl7OvVEbzbwFvGegiC?usp=sharing
 
-Knn
+Kmeans
 https://colab.research.google.com/drive/1VQpXSGbAwzERy0bfY1Juuoox4XTUAsaP
 
 Tasks -  Based on Pandas 
