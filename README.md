@@ -36,6 +36,9 @@ https://colab.research.google.com/drive/16u_E57w7u-t7EE9pbgcNm5q8gozoHHlv?usp=sh
 Regression_task2
 https://colab.research.google.com/drive/1Qvd1nhLAvU_r5JecMrhzlBpI2XG7NC89?usp=sharing
 
+kmeans_tasks
+https://colab.research.google.com/drive/1Avye-rlz1ACE967uUue3x5ddrmmIm8gx?usp=sharing
+
 About Dataset
 Context
 AqSolDB is created by the Autonomous Energy Materials Discovery [AMD] research group, consists of aqueous solubility values of 9,982 unique compounds curated from 9 different publicly available aqueous solubility datasets. This openly accessible dataset, which is the largest of its kind, and will not only serve as a useful reference source of measured solubility data, but also as a much improved and generalizable training data source for building data-driven models.
