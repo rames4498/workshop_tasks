@@ -1,5 +1,5 @@
 
-# Chemistry_Python_Data_Analytics  (use this link below)
+# Python_Data_Analytics  (use this link below)
 
 python
 https://colab.research.google.com/drive/11iW_ZVWrW2OEQtez9EMVSCKPzgZlcEKo?usp=sharing
