@@ -10,6 +10,12 @@ https://colab.research.google.com/drive/1uid8nn0t1VNi9WfdpjxfHer3L_YB8NSW?usp=sh
 pandas
 https://colab.research.google.com/drive/1PgQ4SlEUreSeUcl4tVnyxcDfZ3STCIRg?usp=sharing
 
+Univariate analysis
+https://colab.research.google.com/drive/105J8I97inVT75ROg0w193FSyTYzFV7yM?usp=sharing
+
+bivariate_analysis
+https://colab.research.google.com/drive/1i23o1qMS6rVOumLBPGnnP2tFOXMJrCc2?usp=sharing
+
 matplotlib
 https://colab.research.google.com/drive/19dp9lu4CMeUs6lzl7OvVEbzbwFvGegiC?usp=sharing
 
@@ -28,6 +34,7 @@ https://colab.research.google.com/drive/1bl1Y29N-tUH29c8bx01I096j128Ll0rz?usp=sh
 
 Tasks -  Based on Pandas 
 https://colab.research.google.com/drive/1iELMsjt_gJS_Akv1nUfDyMjizV2JUK5w?usp=sharing
+
 https://colab.research.google.com/drive/1BovtXQOwhgPfmLgliA_Bg9DBn2Dyi8G6?usp=sharing
 
 Regression_task
