@@ -46,19 +46,8 @@ https://colab.research.google.com/drive/1Qvd1nhLAvU_r5JecMrhzlBpI2XG7NC89?usp=sh
 kmeans_tasks
 https://colab.research.google.com/drive/1Avye-rlz1ACE967uUue3x5ddrmmIm8gx?usp=sharing
 
-About Dataset
-Context
-AqSolDB is created by the Autonomous Energy Materials Discovery [AMD] research group, consists of aqueous solubility values of 9,982 unique compounds curated from 9 different publicly available aqueous solubility datasets. This openly accessible dataset, which is the largest of its kind, and will not only serve as a useful reference source of measured solubility data, but also as a much improved and generalizable training data source for building data-driven models.
-
-Content
-In addition to curated experimental solubility values, AqSolDB also contains some relevant topological and physico-chemical 2D descriptors calculated by RDKit. Additionally, AqSolDB contains validated molecular representations of each of the compounds.
-
-Citation
-If you use AqSolDB in your study, please cite the following paper.
-
-Paper: Nature Scientific Data - https://doi.org/10.1038/s41597-019-0151-1
-
-#
+# Mathematics for AI - you can find the book here 
+https://drive.google.com/file/d/108hvTQRaGzR7McLIn7RXY7ItKFEk8ePB/view?usp=sharing
 
 front End ReactJs code samples
 
